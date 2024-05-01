@@ -1,0 +1,1 @@
+Pridicting the prices of houses based on their square footage of living area and the number of be bedrooms, bathrooms, number of floors, condition of the house, price and number of schools nearby using Linear Regression model.
